@@ -1,0 +1,2 @@
+# imaxstore
+Store Management Application
